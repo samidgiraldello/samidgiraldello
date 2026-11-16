@@ -29,13 +29,6 @@ Estudante de Ciência da Computação (Unis-MG) e estagiária de T.I no Sicoob, 
   <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=a371f7" alt="Git"/>
 </p>
 
-## 🚀 Projeto em destaque
-
-<a href="https://github.com/samidgiraldello/agente-preenchimento-documentos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samidgiraldello&repo=agente-preenchimento-documentos&theme=transparent&title_color=a371f7&text_color=c9d1d9&icon_color=a371f7&border_color=30363d" alt="agente-preenchimento-documentos"/>
-</a>
-
-Agente de IA que automatiza o preenchimento de documentos.
 
 ## 📊 GitHub em números
 
@@ -50,12 +43,6 @@ Agente de IA que automatiza o preenchimento de documentos.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samidgiraldello&bg_color=0d1117&color=a371f7&line=a371f7&point=ffffff&area=true&area_color=a371f7&hide_border=true" alt="Activity Graph" width="100%"/>
-</p>
-
-## 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samidgiraldello&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ## 🐍 Contribuições
