@@ -29,22 +29,6 @@ Estudante de Ciência da Computação (Unis-MG) e estagiária de T.I no Sicoob, 
   <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=a371f7" alt="Git"/>
 </p>
 
-
-## 📊 GitHub em números
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=samidgiraldello&show_icons=true&border_color=30363d&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9&icon_color=a371f7" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samidgiraldello&layout=compact&border_color=30363d&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=samidgiraldello&theme=transparent&ring=a371f7&fire=a371f7&currStreakLabel=a371f7&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=30363d&border=30363d" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samidgiraldello&bg_color=0d1117&color=a371f7&line=a371f7&point=ffffff&area=true&area_color=a371f7&hide_border=true" alt="Activity Graph" width="100%"/>
-</p>
-
 ## 🐍 Contribuições
 
 <p align="center">
